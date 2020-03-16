@@ -138,7 +138,7 @@ export default {
      */
     getHomeMultidata(){
       getHomeMultidata().then(res => {
-        console.log(res);
+        // console.log(res);
         // this.result = res;
         // 使用变量存储请求到的数据,不然请求回来的res变量会再函数执行完后被回收
         this.banners = res.data.banner.list
