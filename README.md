@@ -4,7 +4,7 @@
 
 ## 项目预览
 
-![image-20200316094953820](https://gitee.com/ahuntsun/BlogImgs/raw/master/ShoppingStreet/1.png)
+![image-20200316094953820](https://raw.githubusercontent.com/AhuntSun/BlogImg/master/ShoppingStreet/1.png)
 
 ## 项目安装
 
@@ -159,15 +159,15 @@ shopping street
 
 ### 1.首页介绍
 
-![image-20200316105044464](https://gitee.com/ahuntsun/BlogImgs/raw/master/ShoppingStreet/2.png)
+![1](https://raw.githubusercontent.com/AhuntSun/BlogImg/master/ShoppingStreet/2.png)
 
 **多种分类商品目录可供选择；**
 
-![image-20200316105229422](https://gitee.com/ahuntsun/BlogImgs/raw/master/ShoppingStreet/3.png)
+![image-20200316105229422](https://raw.githubusercontent.com/AhuntSun/BlogImg/master/ShoppingStreet/3.png)
 
 **搭配vue-lazyload插件，实现图片懒加载；还有上拉加载更多，一键返回顶部功能；**
 
-![image-20200316105430927](https://gitee.com/ahuntsun/BlogImgs/raw/master/ShoppingStreet/4.png)
+![image-20200316105430927](https://raw.githubusercontent.com/AhuntSun/BlogImg/master/ShoppingStreet/4.png)
 
 ### 2.详情页介绍
 
@@ -175,24 +175,24 @@ shopping street
 
 **商品分栏，轮播图：**
 
-![image-20200316110357922](https://gitee.com/ahuntsun/BlogImgs/raw/master/ShoppingStreet/5.png)
+![image-20200316110357922](https://raw.githubusercontent.com/AhuntSun/BlogImg/master/ShoppingStreet/5.png)
 
 **参数分栏：**
 
-![image-20200316110039707](https://gitee.com/ahuntsun/BlogImgs/raw/master/ShoppingStreet/6.png)
+![image-20200316110039707](https://raw.githubusercontent.com/AhuntSun/BlogImg/master/ShoppingStreet/6.png)
 
 **评论分栏和推荐分栏：**
 
-![image-20200316110203829](https://gitee.com/ahuntsun/BlogImgs/raw/master/ShoppingStreet/7.png)
+![image-20200316110203829](https://raw.githubusercontent.com/AhuntSun/BlogImg/master/ShoppingStreet/7.png)
 
 ### 3.购物车介绍
 
 添加商品有相应的提示：
 
-![image-20200316111029883](https://gitee.com/ahuntsun/BlogImgs/raw/master/ShoppingStreet/8.png)
+![image-20200316111029883](https://raw.githubusercontent.com/AhuntSun/BlogImg/master/ShoppingStreet/8.png)
 
 **购物车功能齐全具备全选取消等功能：**
 
-![image-20200316110725274](https://gitee.com/ahuntsun/BlogImgs/raw/master/ShoppingStreet/9.png)
+![image-20200316110725274](https://raw.githubusercontent.com/AhuntSun/BlogImg/master/ShoppingStreet/9.png)
 
 ## 更多详细内容可安装项目进行查看！
